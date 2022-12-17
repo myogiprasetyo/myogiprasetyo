@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=myogiprasetyo&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
